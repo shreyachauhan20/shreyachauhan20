@@ -1,4 +1,4 @@
-# 💫 WELCOME TO MY GITHUB PROFILE!!
+# 💫 WELCOME TO MY GITHUB PROFILE!
 
 Hi, I’m Shreya Chauhan 👋.<br>I enjoy learning by building and improving things step by step. Interested in programming, web development, and problem-solving, and always curious about how things work behind the scenes.<br>Currently focused on growing my skills and working on meaningful projects.
 
